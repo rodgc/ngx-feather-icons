@@ -5,3 +5,1043 @@
   width: 24px;
   height: 24px;
 }
+
+.fi-activity {
+  background: url('lib/feather/activity.svg');
+}
+
+.fi-airplay {
+  background: url('lib/feather/airplay.svg');
+}
+
+.fi-alert-circle {
+  background: url('lib/feather/alert-circle.svg');
+}
+
+.fi-alert-octagon {
+  background: url('lib/feather/alert-octagon.svg');
+}
+
+.fi-alert-triangle {
+  background: url('lib/feather/alert-triangle.svg');
+}
+
+.fi-align-center {
+  background: url('lib/feather/align-center.svg');
+}
+
+.fi-align-justify {
+  background: url('lib/feather/align-justify.svg');
+}
+
+.fi-align-left {
+  background: url('lib/feather/align-left.svg');
+}
+
+.fi-align-right {
+  background: url('lib/feather/align-right.svg');
+}
+
+.fi-anchor {
+  background: url('lib/feather/anchor.svg');
+}
+
+.fi-aperture {
+  background: url('lib/feather/aperture.svg');
+}
+
+.fi-arrow-down {
+  background: url('lib/feather/arrow-down.svg');
+}
+
+.fi-arrow-down-circle {
+  background: url('lib/feather/arrow-down-circle.svg');
+}
+
+.fi-arrow-down-left {
+  background: url('lib/feather/arrow-down-left.svg');
+}
+
+.fi-arrow-down-right {
+  background: url('lib/feather/arrow-down-right.svg');
+}
+
+.fi-arrow-left {
+  background: url('lib/feather/arrow-left.svg');
+}
+
+.fi-arrow-left-circle {
+  background: url('lib/feather/arrow-left-circle.svg');
+}
+
+.fi-arrow-right {
+  background: url('lib/feather/arrow-right.svg');
+}
+
+.fi-arrow-right-circle {
+  background: url('lib/feather/arrow-right-circle.svg');
+}
+
+.fi-arrow-up {
+  background: url('lib/feather/arrow-up.svg');
+}
+
+.fi-arrow-up-circle {
+  background: url('lib/feather/arrow-up-circle.svg');
+}
+
+.fi-arrow-up-left {
+  background: url('lib/feather/arrow-up-left.svg');
+}
+
+.fi-arrow-up-right {
+  background: url('lib/feather/arrow-up-right.svg');
+}
+
+.fi-at-sign {
+  background: url('lib/feather/at-sign.svg');
+}
+
+.fi-award {
+  background: url('lib/feather/award.svg');
+}
+
+.fi-bar-chart {
+  background: url('lib/feather/bar-chart.svg');
+}
+
+.fi-bar-chart-2 {
+  background: url('lib/feather/bar-chart-2.svg');
+}
+
+.fi-battery {
+  background: url('lib/feather/battery.svg');
+}
+
+.fi-battery-charging {
+  background: url('lib/feather/battery-charging.svg');
+}
+
+.fi-bell {
+  background: url('lib/feather/bell.svg');
+}
+
+.fi-bell-off {
+  background: url('lib/feather/bell-off.svg');
+}
+
+.fi-bluetooth {
+  background: url('lib/feather/bluetooth.svg');
+}
+
+.fi-bold {
+  background: url('lib/feather/bold.svg');
+}
+
+.fi-book {
+  background: url('lib/feather/book.svg');
+}
+
+.fi-bookmark {
+  background: url('lib/feather/bookmark.svg');
+}
+
+.fi-book-open {
+  background: url('lib/feather/book-open.svg');
+}
+
+.fi-box {
+  background: url('lib/feather/box.svg');
+}
+
+.fi-briefcase {
+  background: url('lib/feather/briefcase.svg');
+}
+
+.fi-calendar {
+  background: url('lib/feather/calendar.svg');
+}
+
+.fi-camera {
+  background: url('lib/feather/camera.svg');
+}
+
+.fi-camera-off {
+  background: url('lib/feather/camera-off.svg');
+}
+
+.fi-cast {
+  background: url('lib/feather/cast.svg');
+}
+
+.fi-check {
+  background: url('lib/feather/check.svg');
+}
+
+.fi-check-circle {
+  background: url('lib/feather/check-circle.svg');
+}
+
+.fi-check-square {
+  background: url('lib/feather/check-square.svg');
+}
+
+.fi-chevron-down {
+  background: url('lib/feather/chevron-down.svg');
+}
+
+.fi-chevron-left {
+  background: url('lib/feather/chevron-left.svg');
+}
+
+.fi-chevron-right {
+  background: url('lib/feather/chevron-right.svg');
+}
+
+.fi-chevrons-down {
+  background: url('lib/feather/chevrons-down.svg');
+}
+
+.fi-chevrons-left {
+  background: url('lib/feather/chevrons-left.svg');
+}
+
+.fi-chevrons-right {
+  background: url('lib/feather/chevrons-right.svg');
+}
+
+.fi-chevrons-up {
+  background: url('lib/feather/chevrons-up.svg');
+}
+
+.fi-chevron-up {
+  background: url('lib/feather/chevron-up.svg');
+}
+
+.fi-chrome {
+  background: url('lib/feather/chrome.svg');
+}
+
+.fi-circle {
+  background: url('lib/feather/circle.svg');
+}
+
+.fi-clipboard {
+  background: url('lib/feather/clipboard.svg');
+}
+
+.fi-clock {
+  background: url('lib/feather/clock.svg');
+}
+
+.fi-cloud {
+  background: url('lib/feather/cloud.svg');
+}
+
+.fi-cloud-drizzle {
+  background: url('lib/feather/cloud-drizzle.svg');
+}
+
+.fi-cloud-lightning {
+  background: url('lib/feather/cloud-lightning.svg');
+}
+
+.fi-cloud-off {
+  background: url('lib/feather/cloud-off.svg');
+}
+
+.fi-cloud-rain {
+  background: url('lib/feather/cloud-rain.svg');
+}
+
+.fi-cloud-snow {
+  background: url('lib/feather/cloud-snow.svg');
+}
+
+.fi-code {
+  background: url('lib/feather/code.svg');
+}
+
+.fi-codepen {
+  background: url('lib/feather/codepen.svg');
+}
+
+.fi-command {
+  background: url('lib/feather/command.svg');
+}
+
+.fi-compass {
+  background: url('lib/feather/compass.svg');
+}
+
+.fi-copy {
+  background: url('lib/feather/copy.svg');
+}
+
+.fi-corner-down-left {
+  background: url('lib/feather/corner-down-left.svg');
+}
+
+.fi-corner-down-right {
+  background: url('lib/feather/corner-down-right.svg');
+}
+
+.fi-corner-left-down {
+  background: url('lib/feather/corner-left-down.svg');
+}
+
+.fi-corner-left-up {
+  background: url('lib/feather/corner-left-up.svg');
+}
+
+.fi-corner-right-down {
+  background: url('lib/feather/corner-right-down.svg');
+}
+
+.fi-corner-right-up {
+  background: url('lib/feather/corner-right-up.svg');
+}
+
+.fi-corner-up-left {
+  background: url('lib/feather/corner-up-left.svg');
+}
+
+.fi-corner-up-right {
+  background: url('lib/feather/corner-up-right.svg');
+}
+
+.fi-cpu {
+  background: url('lib/feather/cpu.svg');
+}
+
+.fi-credit-card {
+  background: url('lib/feather/credit-card.svg');
+}
+
+.fi-crop {
+  background: url('lib/feather/crop.svg');
+}
+
+.fi-crosshair {
+  background: url('lib/feather/crosshair.svg');
+}
+
+.fi-database {
+  background: url('lib/feather/database.svg');
+}
+
+.fi-delete {
+  background: url('lib/feather/delete.svg');
+}
+
+.fi-disc {
+  background: url('lib/feather/disc.svg');
+}
+
+.fi-dollar-sign {
+  background: url('lib/feather/dollar-sign.svg');
+}
+
+.fi-download {
+  background: url('lib/feather/download.svg');
+}
+
+.fi-download-cloud {
+  background: url('lib/feather/download-cloud.svg');
+}
+
+.fi-droplet {
+  background: url('lib/feather/droplet.svg');
+}
+
+.fi-edit {
+  background: url('lib/feather/edit.svg');
+}
+
+.fi-edit-2 {
+  background: url('lib/feather/edit-2.svg');
+}
+
+.fi-edit-3 {
+  background: url('lib/feather/edit-3.svg');
+}
+
+.fi-external-link {
+  background: url('lib/feather/external-link.svg');
+}
+
+.fi-eye {
+  background: url('lib/feather/eye.svg');
+}
+
+.fi-eye-off {
+  background: url('lib/feather/eye-off.svg');
+}
+
+.fi-facebook {
+  background: url('lib/feather/facebook.svg');
+}
+
+.fi-fast-forward {
+  background: url('lib/feather/fast-forward.svg');
+}
+
+.fi-feather {
+  background: url('lib/feather/feather.svg');
+}
+
+.fi-file {
+  background: url('lib/feather/file.svg');
+}
+
+.fi-file-minus {
+  background: url('lib/feather/file-minus.svg');
+}
+
+.fi-file-plus {
+  background: url('lib/feather/file-plus.svg');
+}
+
+.fi-file-text {
+  background: url('lib/feather/file-text.svg');
+}
+
+.fi-film {
+  background: url('lib/feather/film.svg');
+}
+
+.fi-filter {
+  background: url('lib/feather/filter.svg');
+}
+
+.fi-flag {
+  background: url('lib/feather/flag.svg');
+}
+
+.fi-folder {
+  background: url('lib/feather/folder.svg');
+}
+
+.fi-folder-minus {
+  background: url('lib/feather/folder-minus.svg');
+}
+
+.fi-folder-plus {
+  background: url('lib/feather/folder-plus.svg');
+}
+
+.fi-git-branch {
+  background: url('lib/feather/git-branch.svg');
+}
+
+.fi-git-commit {
+  background: url('lib/feather/git-commit.svg');
+}
+
+.fi-github {
+  background: url('lib/feather/github.svg');
+}
+
+.fi-gitlab {
+  background: url('lib/feather/gitlab.svg');
+}
+
+.fi-git-merge {
+  background: url('lib/feather/git-merge.svg');
+}
+
+.fi-git-pull-request {
+  background: url('lib/feather/git-pull-request.svg');
+}
+
+.fi-globe {
+  background: url('lib/feather/globe.svg');
+}
+
+.fi-grid {
+  background: url('lib/feather/grid.svg');
+}
+
+.fi-hard-drive {
+  background: url('lib/feather/hard-drive.svg');
+}
+
+.fi-hash {
+  background: url('lib/feather/hash.svg');
+}
+
+.fi-headphones {
+  background: url('lib/feather/headphones.svg');
+}
+
+.fi-heart {
+  background: url('lib/feather/heart.svg');
+}
+
+.fi-help-circle {
+  background: url('lib/feather/help-circle.svg');
+}
+
+.fi-home {
+  background: url('lib/feather/home.svg');
+}
+
+.fi-image {
+  background: url('lib/feather/image.svg');
+}
+
+.fi-inbox {
+  background: url('lib/feather/inbox.svg');
+}
+
+.fi-info {
+  background: url('lib/feather/info.svg');
+}
+
+.fi-instagram {
+  background: url('lib/feather/instagram.svg');
+}
+
+.fi-italic {
+  background: url('lib/feather/italic.svg');
+}
+
+.fi-layers {
+  background: url('lib/feather/layers.svg');
+}
+
+.fi-layout {
+  background: url('lib/feather/layout.svg');
+}
+
+.fi-life-buoy {
+  background: url('lib/feather/life-buoy.svg');
+}
+
+.fi-link {
+  background: url('lib/feather/link.svg');
+}
+
+.fi-link-2 {
+  background: url('lib/feather/link-2.svg');
+}
+
+.fi-linkedin {
+  background: url('lib/feather/linkedin.svg');
+}
+
+.fi-list {
+  background: url('lib/feather/list.svg');
+}
+
+.fi-loader {
+  background: url('lib/feather/loader.svg');
+}
+
+.fi-lock {
+  background: url('lib/feather/lock.svg');
+}
+
+.fi-log-in {
+  background: url('lib/feather/log-in.svg');
+}
+
+.fi-log-out {
+  background: url('lib/feather/log-out.svg');
+}
+
+.fi-mail {
+  background: url('lib/feather/mail.svg');
+}
+
+.fi-map {
+  background: url('lib/feather/map.svg');
+}
+
+.fi-map-pin {
+  background: url('lib/feather/map-pin.svg');
+}
+
+.fi-maximize {
+  background: url('lib/feather/maximize.svg');
+}
+
+.fi-maximize-2 {
+  background: url('lib/feather/maximize-2.svg');
+}
+
+.fi-message-circle {
+  background: url('lib/feather/message-circle.svg');
+}
+
+.fi-message-square {
+  background: url('lib/feather/message-square.svg');
+}
+
+.fi-mic {
+  background: url('lib/feather/mic.svg');
+}
+
+.fi-mic-off {
+  background: url('lib/feather/mic-off.svg');
+}
+
+.fi-minimize {
+  background: url('lib/feather/minimize.svg');
+}
+
+.fi-minimize-2 {
+  background: url('lib/feather/minimize-2.svg');
+}
+
+.fi-minus {
+  background: url('lib/feather/minus.svg');
+}
+
+.fi-minus-circle {
+  background: url('lib/feather/minus-circle.svg');
+}
+
+.fi-minus-square {
+  background: url('lib/feather/minus-square.svg');
+}
+
+.fi-monitor {
+  background: url('lib/feather/monitor.svg');
+}
+
+.fi-moon {
+  background: url('lib/feather/moon.svg');
+}
+
+.fi-more-horizontal {
+  background: url('lib/feather/more-horizontal.svg');
+}
+
+.fi-more-vertical {
+  background: url('lib/feather/more-vertical.svg');
+}
+
+.fi-move {
+  background: url('lib/feather/move.svg');
+}
+
+.fi-music {
+  background: url('lib/feather/music.svg');
+}
+
+.fi-navigation {
+  background: url('lib/feather/navigation.svg');
+}
+
+.fi-navigation-2 {
+  background: url('lib/feather/navigation-2.svg');
+}
+
+.fi-octagon {
+  background: url('lib/feather/octagon.svg');
+}
+
+.fi-package {
+  background: url('lib/feather/package.svg');
+}
+
+.fi-paperclip {
+  background: url('lib/feather/paperclip.svg');
+}
+
+.fi-pause {
+  background: url('lib/feather/pause.svg');
+}
+
+.fi-pause-circle {
+  background: url('lib/feather/pause-circle.svg');
+}
+
+.fi-percent {
+  background: url('lib/feather/percent.svg');
+}
+
+.fi-phone {
+  background: url('lib/feather/phone.svg');
+}
+
+.fi-phone-call {
+  background: url('lib/feather/phone-call.svg');
+}
+
+.fi-phone-forwarded {
+  background: url('lib/feather/phone-forwarded.svg');
+}
+
+.fi-phone-incoming {
+  background: url('lib/feather/phone-incoming.svg');
+}
+
+.fi-phone-missed {
+  background: url('lib/feather/phone-missed.svg');
+}
+
+.fi-phone-off {
+  background: url('lib/feather/phone-off.svg');
+}
+
+.fi-phone-outgoing {
+  background: url('lib/feather/phone-outgoing.svg');
+}
+
+.fi-pie-chart {
+  background: url('lib/feather/pie-chart.svg');
+}
+
+.fi-play {
+  background: url('lib/feather/play.svg');
+}
+
+.fi-play-circle {
+  background: url('lib/feather/play-circle.svg');
+}
+
+.fi-plus {
+  background: url('lib/feather/plus.svg');
+}
+
+.fi-plus-square {
+  background: url('lib/feather/plus-square.svg');
+}
+
+.fi-pocket {
+  background: url('lib/feather/pocket.svg');
+}
+
+.fi-power {
+  background: url('lib/feather/power.svg');
+}
+
+.fi-printer {
+  background: url('lib/feather/printer.svg');
+}
+
+.fi-radio {
+  background: url('lib/feather/radio.svg');
+}
+
+.fi-refresh-ccw {
+  background: url('lib/feather/refresh-ccw.svg');
+}
+
+.fi-refresh-cw {
+  background: url('lib/feather/refresh-cw.svg');
+}
+
+.fi-repeat {
+  background: url('lib/feather/repeat.svg');
+}
+
+.fi-rewind {
+  background: url('lib/feather/rewind.svg');
+}
+
+.fi-rotate-ccw {
+  background: url('lib/feather/rotate-ccw.svg');
+}
+
+.fi-rotate-cw {
+  background: url('lib/feather/rotate-cw.svg');
+}
+
+.fi-rss {
+  background: url('lib/feather/rss.svg');
+}
+
+.fi-save {
+  background: url('lib/feather/save.svg');
+}
+
+.fi-scissors {
+  background: url('lib/feather/scissors.svg');
+}
+
+.fi-search {
+  background: url('lib/feather/search.svg');
+}
+
+.fi-send {
+  background: url('lib/feather/send.svg');
+}
+
+.fi-server {
+  background: url('lib/feather/server.svg');
+}
+
+.fi-settings {
+  background: url('lib/feather/settings.svg');
+}
+
+.fi-share {
+  background: url('lib/feather/share.svg');
+}
+
+.fi-share-2 {
+  background: url('lib/feather/share-2.svg');
+}
+
+.fi-shield {
+  background: url('lib/feather/shield.svg');
+}
+
+.fi-shield-off {
+  background: url('lib/feather/shield-off.svg');
+}
+
+.fi-shopping-bag {
+  background: url('lib/feather/shopping-bag.svg');
+}
+
+.fi-shopping-cart {
+  background: url('lib/feather/shopping-cart.svg');
+}
+
+.fi-shuffle {
+  background: url('lib/feather/shuffle.svg');
+}
+
+.fi-skip-back {
+  background: url('lib/feather/skip-back.svg');
+}
+
+.fi-skip-forward {
+  background: url('lib/feather/skip-forward.svg');
+}
+
+.fi-slack {
+  background: url('lib/feather/slack.svg');
+}
+
+.fi-slash {
+  background: url('lib/feather/slash.svg');
+}
+
+.fi-sliders {
+  background: url('lib/feather/sliders.svg');
+}
+
+.fi-smartphone {
+  background: url('lib/feather/smartphone.svg');
+}
+
+.fi-speaker {
+  background: url('lib/feather/speaker.svg');
+}
+
+.fi-square {
+  background: url('lib/feather/square.svg');
+}
+
+.fi-star {
+  background: url('lib/feather/star.svg');
+}
+
+.fi-stop-circle {
+  background: url('lib/feather/stop-circle.svg');
+}
+
+.fi-sun {
+  background: url('lib/feather/sun.svg');
+}
+
+.fi-sunrise {
+  background: url('lib/feather/sunrise.svg');
+}
+
+.fi-sunset {
+  background: url('lib/feather/sunset.svg');
+}
+
+.fi-tablet {
+  background: url('lib/feather/tablet.svg');
+}
+
+.fi-tag {
+  background: url('lib/feather/tag.svg');
+}
+
+.fi-target {
+  background: url('lib/feather/target.svg');
+}
+
+.fi-thermometer {
+  background: url('lib/feather/terminal.svg');
+}
+
+.fi-thermometer {
+  background: url('lib/feather/thermometer.svg');
+}
+
+.fi-thumbs-down {
+  background: url('lib/feather/thumbs-down.svg');
+}
+
+.fi-thumbs-up {
+  background: url('lib/feather/thumbs-up.svg');
+}
+
+.fi-toggle-left {
+  background: url('lib/feather/toggle-left.svg');
+}
+
+.fi-toggle-right {
+  background: url('lib/feather/toggle-right.svg');
+}
+
+.fi-trash {
+  background: url('lib/feather/trash.svg');
+}
+
+.fi-trash-2 {
+  background: url('lib/feather/trash-2.svg');
+}
+
+.fi-trending-down {
+  background: url('lib/feather/trending-down.svg');
+}
+
+.fi-trending-up {
+  background: url('lib/feather/trending-up.svg');
+}
+
+.fi-triangle {
+  background: url('lib/feather/triangle.svg');
+}
+
+.fi-truck {
+  background: url('lib/feather/truck.svg');
+}
+
+.fi-tv {
+  background: url('lib/feather/tv.svg');
+}
+
+.fi-twitter {
+  background: url('lib/feather/twitter.svg');
+}
+
+.fi-type {
+  background: url('lib/feather/type.svg');
+}
+
+.fi-umbrella {
+  background: url('lib/feather/umbrella.svg');
+}
+
+.fi-underline {
+  background: url('lib/feather/underline.svg');
+}
+
+.fi-unlock {
+  background: url('lib/feather/unlock.svg');
+}
+
+.fi-upload {
+  background: url('lib/feather/upload.svg');
+}
+
+.fi-upload-cloud {
+  background: url('lib/feather/upload-cloud.svg');
+}
+
+.fi-user {
+  background: url('lib/feather/user.svg');
+}
+
+.fi-user-check {
+  background: url('lib/feather/user-check.svg');
+}
+
+.fi-user-minus {
+  background: url('lib/feather/user-minus.svg');
+}
+
+.fi-user-plus {
+  background: url('lib/feather/user-plus.svg');
+}
+
+.fi-users {
+  background: url('lib/feather/users.svg');
+}
+
+.fi-user-x {
+  background: url('lib/feather/user-x.svg');
+}
+
+.fi-video {
+  background: url('lib/feather/video.svg');
+}
+
+.fi-video-off {
+  background: url('lib/feather/video-off.svg');
+}
+
+.fi-voicemail {
+  background: url('lib/feather/voicemail.svg');
+}
+
+.fi-volume {
+  background: url('lib/feather/volume.svg');
+}
+
+.fi-volume-1 {
+  background: url('lib/feather/volume-1.svg');
+}
+
+.fi-volume-2 {
+  background: url('lib/feather/volume-2.svg');
+}
+
+.fi-volume-x {
+  background: url('lib/feather/volume-x.svg');
+}
+
+.fi-watch {
+  background: url('lib/feather/watch.svg');
+}
+
+.fi-wifi {
+  background: url('lib/feather/wifi.svg');
+}
+
+.fi-wifi-off {
+  background: url('lib/feather/wifi-off.svg');
+}
+
+.fi-wind {
+  background: url('lib/feather/wind.svg');
+}
+
+.fi-x {
+  background: url('lib/feather/x.svg');
+}
+
+.fi-x-circle {
+  background: url('lib/feather/x-circle.svg');
+}
+
+.fi-x-square {
+  background: url('lib/feather/x-square.svg');
+}
+
+.fi-zap {
+  background: url('lib/feather/zap.svg');
+}
+
+.fi-zap-off {
+  background: url('lib/feather/zap-off.svg');
+}
+
+.fi-zoom-in {
+  background: url('lib/feather/zoom-in.svg');
+}
+
+.fi-zoom-out {
+  background: url('lib/feather/zoom-out.svg');
+}
