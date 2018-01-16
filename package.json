@@ -2,6 +2,7 @@
   "name": "ngx-feather-icon",
   "version": "0.0.1",
   "license": "MIT",
+  "description": "Simple, easy to use Angular component to manage Feather icons.",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -11,7 +12,23 @@
     "e2e": "ng e2e",
     "packagr": "ng-packagr -p ng-package.json"
   },
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:rodgc/ngx-feather-icons.git"
+  },
+  "keywords": [
+    "Angular",
+    "Angular 5",
+    "Icons",
+    "svg",
+    "Feather Icons"
+  ],
+  "author": "rodgc",
+  "bugs": {
+    "url": "https://github.com/rodgc/ngx-feather-icons/issues"
+  },
+  "homepage": "https://github.com/rodgc/ngx-feather-icon#readme",
+  "private": false,
   "dependencies": {
     "@angular/animations": "^5.1.0",
     "@angular/common": "^5.1.0",
