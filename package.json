@@ -1,6 +1,6 @@
 {
   "name": "ngx-feather-icon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "description": "Simple, easy to use Angular component to manage Feather icons.",
   "scripts": {
