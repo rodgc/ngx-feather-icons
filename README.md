@@ -1,17 +1,17 @@
-# ngx-feather-icons
+# ngx-feather-icon
 
 Simple, easy to use [Angular](https://angular.io/) component to manage [Feather icons](https://feathericons.com/).
 
 **Install**
 
  ```shell
- $ npm install --save  ngx-feather-icons
+ $ npm install --save  ngx-feather-icon
  ```
 
 **Import the module**
 ```typescript
 //...
-import { FeatherModule } from 'ngx-feather-icons';
+import { FeatherModule } from 'ngx-feather-icon';
 @NgModule({
   //...
   imports: [
